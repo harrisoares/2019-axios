@@ -1,4 +1,4 @@
-const baseURL = "https://thehashy-api.herokuapp.com/";
+const baseURL = "https://apiharrison.herokuapp.com/";
 
  const axios = require("axios").create({
     baseURL: baseURL
